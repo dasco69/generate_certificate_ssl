@@ -1,1 +1,9 @@
-# generate_certificate_ssl
+# Generate certificat SSL
+
+## Script Python use 
+
+* OS
+* SYS
+* INQUIERER
+* RE
+
